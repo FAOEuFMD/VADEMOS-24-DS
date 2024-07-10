@@ -272,6 +272,8 @@ def forecast_auto_ts(df, country, animal_type, model_list =  ['ARIMA','FBProphet
     data = df[(df['Area'] == country) & (df['Item'] == animal_type)]
 
     forecast_length = number_of_years
+    print("FORECAST LENGTH")
+    print(forecast_length)
 
 
     # Fit the model on the training data
