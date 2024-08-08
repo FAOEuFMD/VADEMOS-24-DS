@@ -23,6 +23,9 @@ o	Provides vector shapefiles (GeoPackages) defining administrative boundaries (e
 
 o	Contains attributes such as administrative level names (e.g., NAME_1 for first-level administrative units, NAME_2 for second-level).
 
+o	All files are uploaded in gdrive as they are too large to be uploaded here link: 
+https://drive.google.com/drive/folders/1pT87dA_tAEZAxF_3OUKBW8LEw0ZBBScv?usp=sharing
+
 # Process Overview
 
 **1.	Data Acquisition**
