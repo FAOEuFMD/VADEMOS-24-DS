@@ -1,0 +1,44 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.bak
+*.swp
+*.tmp
+
+# Output images that might be regenerated
+plots/*.pdf
+plots/*.png
+
+# Backup files
+*~
